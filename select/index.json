@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "キセキ",
+  "base_artist": "莉犬",
+  "createdAt": "2026-03-29T13:37:54.277356Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キセキ",
+      "artist": "田所あずさ",
+      "has_synced": true,
+      "path": "select/01_キセキ_田所あずさ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ひとりじゃない(DEEN The Best キセキ)",
+      "artist": "DEEN",
+      "has_synced": true,
+      "path": "select/02_ひとりじゃない(DEEN_The_Best_キセキ)_DEEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キセキ",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/03_キセキ_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キセキ",
+      "artist": "Sasuke",
+      "has_synced": false,
+      "path": "select/04_キセキ_Sasuke.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "キセキ",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/05_キセキ_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "キセキ",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/06_キセキ_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "キセキ",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/07_キセキ_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LOVE FOREVER(DEEN The Best キセキ)",
+      "artist": "DEEN",
+      "has_synced": false,
+      "path": "select/08_LOVE_FOREVER(DEEN_The_Best_キセキ)_DEEN.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "TWELVE(DEEN The Best キセキ)",
+      "artist": "DEEN",
+      "has_synced": true,
+      "path": "select/09_TWELVE(DEEN_The_Best_キセキ)_DEEN.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Teenage dream(DEEN The Best キセキ)",
+      "artist": "DEEN",
+      "has_synced": false,
+      "path": "select/10_Teenage_dream(DEEN_The_Best_キセキ)_DEEN.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "会いたい(DEEN The Best キセキ)",
+      "artist": "DEEN",
+      "has_synced": true,
+      "path": "select/11_会いたい(DEEN_The_Best_キセキ)_DEEN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "君さえいれば(DEEN The Best キセキ)",
+      "artist": "Deen",
+      "has_synced": false,
+      "path": "select/12_君さえいれば(DEEN_The_Best_キセキ)_Deen.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "思いきり 笑って(DEEN The Best キセキ)",
+      "artist": "DEEN",
+      "has_synced": false,
+      "path": "select/13_思いきり_笑って(DEEN_The_Best_キセキ)_DEEN.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "日曜日(DEEN The Best キセキ)",
+      "artist": "DEEN",
+      "has_synced": true,
+      "path": "select/14_日曜日(DEEN_The_Best_キセキ)_DEEN.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "キセキ",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/15_キセキ_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "キセキ",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/16_キセキ_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "キセキ",
+      "artist": "ONEUS",
+      "has_synced": true,
+      "path": "select/17_キセキ_ONEUS.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "キセキ",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/18_キセキ_GReeeeN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キセキ",
+      "artist": "莉犬",
+      "has_synced": false,
+      "path": "select/pl_01_キセキ_莉犬.txt"
+    }
+  ]
+}
